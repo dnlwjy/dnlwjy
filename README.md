@@ -25,5 +25,4 @@ Good products happen when design and engineering work as one system.
 ## Contact
 
 🌐 danielwijaya.com  
-💼 LinkedIn  
-📫 daniel@example.com
+📫 wijayadaniel19@gmail.com
