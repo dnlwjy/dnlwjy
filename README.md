@@ -1,16 +1,29 @@
-## Hi there 👋
+# Daniel Wijaya
 
-<!--
-**dnlwjy/dnlwjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX Engineer focused on design systems, frontend architecture, and accessible digital experiences.
 
-Here are some ideas to get you started:
+I bridge the gap between design and development by transforming design decisions into scalable components, maintainable code, and consistent user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+- Design Systems
+- UX Engineering
+- Frontend Development
+- Accessibility
+- Component Libraries
+- Design Tokens
+- Documentation
+
+## Stack
+
+Figma · Storybook · TypeScript · React · Next.js · Astro · Sanity CMS · Git · Vercel
+
+## Philosophy
+
+Good products happen when design and engineering work as one system.
+
+## Contact
+
+🌐 danielwijaya.com  
+💼 LinkedIn  
+📫 daniel@example.com
