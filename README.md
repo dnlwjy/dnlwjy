@@ -1,6 +1,8 @@
 # Daniel Wijaya
-🌐 danielwijaya.com  
-📫 wijayadaniel19@gmail.com
+
+UX Engineer • Design Systems • Frontend Development
+
+🌐 danielwijaya.com • 📫 wijayadaniel19@gmail.com
 
 I bridge the gap between design and development by transforming design decisions into scalable components, maintainable code, and consistent user experiences.
 
