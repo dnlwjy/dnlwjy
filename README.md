@@ -1,3 +1,6 @@
 # Daniel Wijaya
 
-🌐 danielwijaya.com • 📫 wijayadaniel19@gmail.com
+UX Engineer
+
+🌐 danielwijaya.com
+✉️ [wijayadaniel19@gmail.com](mailto:wijayadaniel19@gmail.com)
