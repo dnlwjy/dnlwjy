@@ -32,5 +32,4 @@ I am a UX engineer with a solid background in UI UX design. In the past 3 years,
 ##
 Get in touch:
 - Email: wijayadaniel19@gmail.com
-- Website: www.danielwijaya.com
 - LinkedIn: www.linkedin.com/in/dnlwjy
