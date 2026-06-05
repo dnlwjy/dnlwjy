@@ -16,6 +16,7 @@
 I am a UX engineer with a solid background in UI UX design. In the past 3 years, I specialize in design implementation, either to Framer or to code. Beyond than that, my responsible is beyond than that — I architect the systems, thinking about maintainability, scalability, user experience, dev experience, business perspective, and engineering constraits. I work at the crossroads of design, engineering, and product thinking.
 
 ##
+Stacks/tools I use:
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
