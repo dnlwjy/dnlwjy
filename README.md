@@ -13,7 +13,7 @@
 
 ##
 
-I am a UX engineer with a solid background in UI UX design. In the past 3 years, I specialize in design implementation, either to Framer or to code. Beyond than that, my responsible is beyond than that — I architect the systems, thinking about maintainability, scalability, user experience, dev experience, business perspective, and engineering constraits. I work at the crossroads of design, engineering, and product thinking.
+I'm Daniel Wijaya, a Frontend Engineer with a background in UI/UX design. I specialize in bridging design and development to build scalable, user-centered digital products. My work focuses on creating intuitive experiences while delivering clean, maintainable code across modern technologies.
 
 ##
 Stacks/tools I use:
