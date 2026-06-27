@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./me.jpg" alt="Daniel Wijaya — UX Engineer" />
+<img src="./me_reaedme.jpg" alt="Daniel Wijaya — UX Engineer" />
 
 <br />
 <br />
